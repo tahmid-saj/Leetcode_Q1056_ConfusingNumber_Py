@@ -1,0 +1,1 @@
+# Leetcode_Q1056_ConfusingNumber_Py
